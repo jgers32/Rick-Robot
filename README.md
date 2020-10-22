@@ -13,3 +13,4 @@ His next steps are the be able to put all of thos things together.
 He will be able to find your face, take input (via microphone), scan the room to find the object, then go retrieve the desired object and bring it back. 
 
 
+#IMPORTANT: not all of the programs in this file contain code completely done by me. OpenCV- most files are not my own.

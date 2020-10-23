@@ -9,8 +9,8 @@ Right now right is currently still in his development stages.
 
 He can identify your face, understand what you say, and can move around (with keyboard input for direction).
 
-His next steps are the be able to put all of thoes things together.
+His next steps are the be able to put all of those things together.
 He will be able to find your face, take input (via microphone), scan the room to find the object, then go retrieve the desired object and bring it back. 
 
 
-#IMPORTANT: not all of the programs in this file contain code completely done by me. OpenCV- most files are not my own.
+#IMPORTANT: not all of the programs in this file contain code completely done by me. OpenCV- most files are not my own right now. 

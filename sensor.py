@@ -26,5 +26,5 @@ def distance(measure='cm'):
     gpio.cleanup()
     return distance
     
-print (distance 'cm')
+print (distance, 'cm')
 

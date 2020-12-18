@@ -1,4 +1,5 @@
-#IMPORTANT:this is not my code...it was pulled so I could help my own code livestream facial recognition.
+#IMPORTANT:this is not my code...this helped me to set up the camera, learn more & help me build my own code to make facial recognition connect to the pan & tilt servos
+#to always keep my head in the frame and eventually connect to the dc motors (direction & speed) to best suit the 'follow me' command.
 
 import io
 import picamera

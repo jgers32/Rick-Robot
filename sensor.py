@@ -20,11 +20,11 @@ def distance(measure='cm'):
     elif measure == 'in':
         distance = tl / 0.000148
     else:
-        print ('improper measurement choice of measurement: in or cm')
+        print('improper measurement choice of measurement: in or cm')
         distance = None
 
     gpio.cleanup()
     return distance
     
-print (distance, 'cm')
+print(distance, 'cm')
 

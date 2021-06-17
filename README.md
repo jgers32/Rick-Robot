@@ -1,7 +1,7 @@
 # Rick-Robot
 Autonomous rover robot that will go and fetch what you tell it to.
 
-Hack Club Summer of Making Hardware Grant (Sponsored by GitHub & Adafruit)
+Hack Club <a href="https://summer.hackclub.com/">Summer of Making</a> Hardware Grant (Sponsored by GitHub & Adafruit)
 
 Rick Robot is a tiny land rover on 4 wheels that has sensors, facial recognition, and a claw. It's purpose is to be a personal assistant and to go get whatever you tell it to (via SnowBoy hotwords). 
 
